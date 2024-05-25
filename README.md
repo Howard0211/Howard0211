@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Howard, and I'm a student interested in all things Python & Data Science!!
 <!--
 **Howard0211/Howard0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
