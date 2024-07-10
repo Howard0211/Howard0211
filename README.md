@@ -27,7 +27,7 @@ In this project, I apply traditional machine learning algorithms to analyze cust
 - Insights into customer preferences and potential areas for product improvement
 
 ### Repository Link
-[Customer Sentiment Analysis Project](link-to-project)
+[Customer Sentiment Analysis Project](https://github.com/Howard0211/Customer-Sentiment-Analysis.git)
 
 ## 📫 How to reach me
 
