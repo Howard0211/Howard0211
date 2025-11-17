@@ -36,4 +36,4 @@ In this project, I apply traditional machine learning algorithms to analyze cust
 
 ## 💬 Let's connect!
 
-Feel free to reach out if you're interested in collaboration, have any questions about my projects, or just want to chat about data science!
+Feel free to reach out if you're interested in collaboration, have any questions about my projects, or would like to discuss data science!
